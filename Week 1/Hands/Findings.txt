@@ -1,0 +1,40 @@
+General 
+==================================
+PC shows how much it varies between colors. With additional data you can take into account
+
+PC1 - Most Generalised model
+
+---- Variance increases as you go along ( Looks most like a hand)
+
+PC8 - More varied
+
+--- Looks less like a hand
+
+
+Procrustes Fit
+==================================
+
+
+
+Colored Data Set
+==============================
+Alot of variation between the data, alot of clusters, and a lot of mix. You cannot tell the person alone from their hands but you can tell if they are female or male.
+
+Each color is a diffent person - Can you tell which person is which if you worked out the colours. 
+
+No clustering, you cant tell who is who but you can tell who is male or female
+
+
+
+Male & Female Data Set
+=================================
+
+Male hands are more varied as they are spread out where as there is more of a general clustering of female hands. 
+
+Clear difference if you drew a line, you would probably get about 80% of the data.
+
+More variations betweeen males where as females are not far apart. 
+
+
+
+
